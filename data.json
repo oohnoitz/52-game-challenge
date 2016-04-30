@@ -1,0 +1,656 @@
+{
+  "games": [
+    {
+      "platform": "PC",
+      "title": "Tales from the Borderlands",
+      "appid": 330830,
+      "image": null,
+      "dates": ["2016/01/01", "2016/01/01"],
+      "hours": 8.75,
+      "review": "This game follows an entirely new cast of characters and brings back some of the old ones from the original franchise, while keeping the same humor that I loved. I did feel that the choices didn't impact the story too much, but it still kept the plot entertaining. Loader Bot will forever be the MVP in this game.",
+      "episodes": [
+        {
+          "platform": "PC",
+          "title": "Tales from the Borderlands: Episode 01",
+          "appid": 330830,
+          "image": null,
+          "dates": ["2016/01/01", "2016/01/01"],
+          "hours": 2.00,
+          "review": "It was a bit shorter than I expected, but the new characters retains the same humor I loved in the original installments. This plays like any other episodic game by Telltale and keeps true to the whackiness of the Borderlands universe."
+        },
+        {
+          "platform": "PC",
+          "title": "Tales from the Borderlands: Episode 02",
+          "appid": 330830,
+          "image": null,
+          "dates": ["2016/01/01", "2016/01/01"],
+          "hours": 1.50,
+          "review": "There is only one word I can use to describe this entire episode: BRO! Everyone is basically BROing iit up with someone else. The best BRO so far would have to be Loader Bro-Bot. Lots of fist bumps."
+        },
+        {
+          "platform": "PC",
+          "title": "Tales from the Borderlands: Episode 03",
+          "appid": 330830,
+          "image": null,
+          "dates": ["2016/01/01", "2016/01/01"],
+          "hours": 1.50,
+          "review": "The story is finally picking up. It's great seeing some more of the old characters make their appearance as well. I still think Loader Bot is by far the best character in the game."
+        },
+        {
+          "platform": "PC",
+          "title": "Tales from the Borderlands: Episode 04",
+          "appid": 330830,
+          "image": null,
+          "dates": ["2016/01/01", "2016/01/01"],
+          "hours": 1.75,
+          "review": "The story is almost coming to a close. Even though I miss Bro-Bot, I did enjoy the that finger gun match against all of the accountants. Scooter was a real hero who shall be missed."
+        },
+        {
+          "platform": "PC",
+          "title": "Tales from the Borderlands: Episode 05 - Finale",
+          "appid": 330830,
+          "image": null,
+          "dates": ["2016/01/01", "2016/01/01"],
+          "hours": 2.00,
+          "review": "This episode was really fun with the entire battle sequence and wished there were more of them. Overall it was a pretty great game/season filled with humor despite feeling very short. Loader Bot will forever be the MVP!"
+        }
+      ]
+    },
+    {
+      "platform": "PC",
+      "title": "Titan Souls",
+      "appid": 297130,
+      "image": null,
+      "dates": ["2016/01/02", "2016/01/02"],
+      "hours": 3.50,
+      "review": "It's a simple game that might test your willpower since you can be killed in a single hit. I had played this game before, but never finished it. I died a bunch of times since I played a lot more recklessly this time around since I was starting with a new game, but it is still challenging since timing can be fairly important in some of boss kills. I did feel that most of the time spent was walking back to the boss after dying."
+    },
+    {
+      "platform": "PC",
+      "title": "Forward to the Sky",
+      "appid": 333250,
+      "image": null,
+      "dates": ["2016/01/02", "2016/01/02"],
+      "hours": 1.25,
+      "review": "This was a pretty short game. I felt that the gameplay was janky ass hell (mostly the jumping), and that the plot and voice acting was lacking. It is possible to 100% the game, but I didn't have the motivation to do it at all with this game."
+    },
+    {
+      "platform": "PC",
+      "title": "The Fall",
+      "appid": 290770,
+      "image": null,
+      "dates": ["2016/01/02", "2016/01/04"],
+      "hours": 2.50,
+      "review": "I totally didn't expect that ending. It's a pretty good game, but aiming was pretty difficult when playing with the Steam Controller. Can't wait for the next episode to come out. I wasn't able to 100% the game through the first playthrough and just may get the last achievement later on."
+    },
+    {
+      "platform": "PC",
+      "title": "Clandestine",
+      "appid": 290530,
+      "image": null,
+      "dates": ["2015/12/06", "2016/01/12"],
+      "hours": 9.00,
+      "review": "It's an odd co-op game where you have each player take on a different role, one spy and the other a hacker, to complete missions. It's one of those games that require good teamwork to complete otherwise you'll end up repeating parts of the missions over and over again. The gameplay and controls felt janky as hell."
+    },
+    {
+      "platform": "PC",
+      "title": "Trine 3: The Artifacts of Power",
+      "appid": 319910,
+      "image": null,
+      "dates": ["2016/01/12", "2016/01/12"],
+      "hours": 4.00,
+      "review": "This game was completely shit. It was crippled with bugs that made online co-op with a buddy of mine annoying as hell. Also, the game can be considered incomplete since it doesn't give us a complete story expecting us to wait for additional content. Honestly, it isn't worth the money even with a sale and pretty much ruined a great franchise they've established with the first two games."
+    },
+    {
+      "platform": "PC",
+      "title": "D4: Dark Dreams Don’t Die -Season One-",
+      "appid": 358090,
+      "image": null,
+      "dates": ["2016/01/08", "2016/01/14"],
+      "hours": 5.00,
+      "review": "It's a pretty unique mystery game and had some fun stunt sequences in each episode. I enjoyed it despite the season ending with a cliffhanger and the future of the series being unpromising due to the health of the developer."
+    },
+    {
+      "platform": "PC",
+      "title": "Victor Vran",
+      "appid": 345180,
+      "image": null,
+      "dates": ["2016/01/13", "22016/01/21"],
+      "hours": 20.50,
+      "review": "I felt that playing melee and the challenges in the endgame to be difficult. Don't think I'll 100% this game, but I did complete 169 out of 205 challenges."
+    },
+    {
+      "platform": "PC",
+      "title": "Dragon's Dogma: Dark Arisen",
+      "appid": 367500,
+      "image": null,
+      "dates": ["2016/01/15", null],
+      "hours": 1.75,
+      "review": ""
+    },
+    {
+      "platform": "Android",
+      "title": "The Room Three",
+      "appid": null,
+      "image": "https://jii.moe/V1PSoMO_e.jpg",
+      "dates": ["2016/01/19", "2016/01/20"],
+      "hours": 4.00,
+      "review": "Awesome game like the previous two installments. I felt that the puzzles were a bit harder mostly because you had to remember tiny tidbits about previous areas. Only completed one of four endings, but I may go back and try to get the other three endings."
+    },
+    {
+      "platform": "3DS",
+      "title": "Mario & Luigi: Paper Jam",
+      "appid": null,
+      "image": "https://jii.moe/4kWpkfY_l.jpg",
+      "dates": ["2016/02/08", null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Dying Light",
+      "appid": 239140,
+      "image": null,
+      "dates": ["2016/02/13", null],
+      "hours": 34,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Suits: A Business RPG",
+      "appid": 410670,
+      "image": null,
+      "dates": ["2016/04/10", "2016/04/10"],
+      "hours": 3.25,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "The Wolf Among Us",
+      "appid": 250320,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": "",
+      "episodes": [
+        {
+          "platform": "PC",
+          "title": "The Wolf Among Us: Episode 01",
+          "appid": 250320,
+          "image": null,
+          "dates": [null, null],
+          "hours": 0,
+          "review": ""
+        },
+        {
+          "platform": "PC",
+          "title": "The Wolf Among Us: Episode 02",
+          "appid": 250320,
+          "image": null,
+          "dates": [null, null],
+          "hours": 0,
+          "review": ""
+        },
+        {
+          "platform": "PC",
+          "title": "The Wolf Among Us: Episode 03",
+          "appid": 250320,
+          "image": null,
+          "dates": [null, null],
+          "hours": 0,
+          "review": ""
+        },
+        {
+          "platform": "PC",
+          "title": "The Wolf Among Us: Episode 04",
+          "appid": 250320,
+          "image": null,
+          "dates": [null, null],
+          "hours": 0,
+          "review": ""
+        },
+        {
+          "platform": "PC",
+          "title": "The Wolf Among Us: Episode 05 - Finale",
+          "appid": 250320,
+          "image": null,
+          "dates": [null, null],
+          "hours": 0,
+          "review": ""
+        }
+      ]
+    },
+    {
+      "platform": "PC",
+      "title": "Mighty Switch Force! Hyper Drive Edition",
+      "appid": 366970,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Teslagrad",
+      "appid": 249590,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "NOT A HERO",
+      "appid": 274270,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "The Marvellous Miss Take",
+      "appid": 327310,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Shantae: Risky's Revenge - Director's Cut",
+      "appid": 277890,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Never Alone (Kisima Ingitchuna)",
+      "appid": 295790,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Styx: Master of Shadows",
+      "appid": 242640,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Hotline Miami",
+      "appid": 219150,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Hotline Miami 2: Wrong Number",
+      "appid": 274170,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Parcel",
+      "appid": 316080,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Super Chibi Knight",
+      "appid": 283080,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Axiom Verge",
+      "appid": 332200,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "BioShock™",
+      "appid": 7670,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "BioShock® 2",
+      "appid": 8850,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "BioShock Infinite",
+      "appid": 8870,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Prototype™",
+      "appid": 10150,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Prototype 2",
+      "appid": 115320,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Metal Gear Solid V: Ground Zeroes",
+      "appid": 311340,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "appid": 287700,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Monochroma",
+      "appid": 265830,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Apotheon",
+      "appid": 208750,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Death Skid Marks",
+      "appid": 326150,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Ether One",
+      "appid": 265950,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "TEMBO THE BADASS ELEPHANT",
+      "appid": 341870,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Her Story",
+      "appid": 368370,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "The Swindle",
+      "appid": 369110,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Aviary Attorney",
+      "appid": 384630,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "The Coma: Cutting Class",
+      "appid": 402630,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Grandia® II Anniversary Edition",
+      "appid": 330390,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "The Witcher® 3: Wild Hunt",
+      "appid": 292030,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "The Talos Principle: Road To Gehenna",
+      "appid": 358470,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Read Only Memories",
+      "appid": 330820,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Hyperdimension Neptunia Re;Birth1",
+      "appid": 282900,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+      "appid": 351710,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Hyperdimension Neptunia Re;Birth3: V Generation",
+      "appid": 353270,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Toren",
+      "appid": 320820,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Chroma Squad",
+      "appid": 251130,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "NEON STRUCT",
+      "appid": 310740,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Evoland",
+      "appid": 233470,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Evoland 2",
+      "appid": 359310,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Mugen Souls",
+      "appid": 389870,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Ys VI: The Ark of Napishtim",
+      "appid": 312540,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Shadow Warrior",
+      "appid": 233130,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Killer is Dead - Nightmare Edition",
+      "appid": 261110,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Remember Me",
+      "appid": 228300,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Dishonored",
+      "appid": 205100,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Tomb Raider",
+      "appid": 203160,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "PC",
+      "title": "Rise of the Tomb Raider™",
+      "appid": 391220,
+      "image": null,
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    }
+  ]
+}

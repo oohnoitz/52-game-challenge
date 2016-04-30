@@ -1,0 +1,97 @@
+html, body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+nav {
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+}
+.main .mdl-layout__header-row {
+  padding-left: 40px;
+}
+.main main > .mdl-layout__tab-panel {
+  padding: 8px;
+  padding-top: 48px;
+}
+.main .mdl-card {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.main .mdl-card__supporting-text {
+  margin: 15px;
+  flex-grow: 1;
+  padding: 0;
+  color: inherit;
+  width: calc(100% - 80px);
+}
+.main.main .mdl-card__supporting-text h4 {
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+.main.main .mdl-card__supporting-text p {
+  color: #bfadad;
+  margin: 0 0 4px;
+}
+.main .mdl-button {
+  margin: 0 2px;
+}
+.main .mdl-card__actions {
+  margin: 0;
+  color: inherit;
+}
+.main .mdl-card__actions .mdl-card__text-right {
+  float: right;
+}
+.main .mdl-card__actions a.
+.main .mdl-card__actions a:hover,
+.main .mdl-card__actions a:active {
+  color: #00BCD4;
+  margin: 0;
+}
+.main .mdl-card__actions .mdl-card__platform-android {
+  background-color: green;
+  color: white;
+}
+.main .mdl-card__actions .mdl-card__platform-pc {
+  background-color: blue;
+  color: white;
+}
+.main .mdl-card__actions .mdl-card__platform-3ds {
+  background-color: red;
+  color: white;
+}
+.main .mdl-card__supporting-text + .mdl-card__actions {
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+.main .mdl-layout__content section:not(:last-of-type) {
+  position: relative;
+  margin-bottom: 48px;
+}
+.main section.section--center {
+  max-width: 960px;
+}
+.main section.section--alert {
+  background-color: red;
+  color: white;
+}
+.main section > header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.main .mdl-layout__content {
+  background-color: white;
+}
+.table--center {
+  width: 100%;
+  max-width: 960px;
+  margin: 48px auto;
+}
+.text-black {
+  color: black;
+}
+.text-green {
+  color: green;
+}
