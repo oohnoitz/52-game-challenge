@@ -162,6 +162,60 @@
       "image": null,
       "dates": ["2016/04/10", "2016/04/10"],
       "hours": 3.25,
+      "review": "It's a game filled with corruption, dark humor and cultural references that'll give you some laughs."
+    },
+    {
+      "platform": "3DS",
+      "title": "Bravely Second: End Layer",
+      "appid": null,
+      "image": "https://jii.moe/NyWM4Rpx-.jpg",
+      "dates": ["2016/04/16", "2016/05/01"],
+      "hours": 36.50,
+      "review": "Mrgrgr~ I felt that the game was super gravy and loved how the characters continued to interact with one another during all of the scenes. Despite some tragic events, the story was overall much lighter than the previous installment and becomes warm-hearted towards the ending. There are still some mysteries that remain unsolved, but I do hope that a third game which will bring this series to a close."
+    },
+    {
+      "platform": "3DS",
+      "title": "999: Nine Hours, Nine Persons, Nine Doors",
+      "appid": null,
+      "image": "https://jii.moe/4yqDK9y-Z.jpg",
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "3DS",
+      "title": "Zero Escape: Virtue's Last Reward",
+      "appid": null,
+      "image": "https://jii.moe/VkzOFqyZZ.jpg",
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "Android",
+      "title": "Lifeline",
+      "appid": null,
+      "image": "https://jii.moe/Ek23j91b-.png",
+      "dates": ["2016/04/30", null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "Android",
+      "title": "Lifeline: Silent Night",
+      "appid": null,
+      "image": "https://jii.moe/4ymRicyWb.png",
+      "dates": [null, null],
+      "hours": 0,
+      "review": ""
+    },
+    {
+      "platform": "Android",
+      "title": "Lifeline 2",
+      "appid": null,
+      "image": "https://jii.moe/EJcCsck-b.png",
+      "dates": [null, null],
+      "hours": 0,
       "review": ""
     },
     {
